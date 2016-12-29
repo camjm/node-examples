@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"incLoginAttempts"
+			],
+			[
+				"ca",
+				"candidatePassword"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"cre",
+				"createFromHexString"
+			],
+			[
+				"ar",
+				"article_collection"
+			],
+			[
+				"arti",
+				"article_collection"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"art",
+				"articleProvider"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"article",
+				"article_collection"
+			],
+			[
+				"get",
+				"getCollection"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"requesthandlers",
+				"requesthandlers"
+			],
+			[
+				"write",
+				"writeHead"
+			],
+			[
+				"req",
+				"requesthandlers"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"propName"
+			],
+			[
+				"Passw",
+				"PasswordScorer"
+			],
+			[
+				"reg",
+				"regExScore"
+			],
+			[
+				"Pass",
+				"PasswordScorer"
+			],
+			[
+				"length",
+				"lengthScore"
+			],
+			[
+				"leng",
+				"lengthScore"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Control Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"",
+				"File: Close All"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Campbell/Projects/git/miltiades/models/article.js",
+		"/C/Users/Campbell/Projects/git/miltiades/models/user.js",
+		"/C/Users/Campbell/Projects/git/miltiades/app.js",
+		"/C/Users/Campbell/Projects/git/miltiades/routes/index.js",
+		"/C/Users/Campbell/Projects/git/miltiades/views/list.jade",
+		"/C/Users/Campbell/Projects/git/miltiades/views/index.jade",
+		"/C/Users/Campbell/Projects/git/miltiades/routes/blog.js",
+		"/C/Users/Campbell/Desktop/gitcommands.txt",
+		"/C/Users/Campbell/Projects/git/miltiades/start.bat",
+		"/C/Users/Campbell/Projects/git/miltiades/startDb.bat",
+		"/C/Users/Campbell/Projects/Node.js/blog/views/blog_show.jade",
+		"/C/Users/Campbell/Projects/Node.js/blog/views/blog_new.jade",
+		"/C/Users/Campbell/Projects/git/miltiades/views/new.jade",
+		"/C/Users/Campbell/Projects/Node.js/blog/views/layout.jade",
+		"/C/Users/Campbell/Projects/Node.js/blog/views/index.jade",
+		"/C/Users/Campbell/Projects/git/miltiades/views/layout.jade",
+		"/C/Users/Campbell/Projects/Node.js/blog/app.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/routes/blog.js",
+		"/C/Users/Campbell/Projects/git/miltiades/models/post.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/providers/articleprovider-mongoose.js",
+		"/C/Users/Campbell/Projects/git/miltiades/init commands.txt",
+		"/C/Users/Campbell/Projects/Node.js/blog/models/post.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/providers/articleprovider-mongodb.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/startDb.bat",
+		"/C/Users/Campbell/Projects/Node.js/blog/articleprovider-mongodb.js",
+		"/C/Users/Campbell/Projects/git/miltiades/package.json",
+		"/C/Users/Campbell/Projects/git/miltiades/node_modules/mongoose/examples/population-basic.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/start.bat",
+		"/C/Users/Campbell/Projects/git/miltiades/node_modules/mongoose/index.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/routes/home.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/routes/global.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/routes/account.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/server.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/views/layout.jade",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/views/index.jade",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/views/layout_mobile.jade",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/views/about.jade",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/views/chat.jade",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/views/errors/500.jade",
+		"/C/Users/Campbell/Projects/Node.js/blog/app_original.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/routes/index.js",
+		"/C/Users/Campbell/Projects/Node.js/test/app.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/middleware/locals.js",
+		"/C/Users/Campbell/Documents/My Web Sites/xenophon/middleware/errorHandler.js",
+		"/C/Users/Campbell/Projects/git/test/newFile.txt",
+		"/C/Users/Campbell/Projects/git/test/file.txt",
+		"/C/Users/Campbell/Projects/git/dupondius/test.txt",
+		"/C/Users/Campbell/Projects/Node.js/blog/routes/user.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/public/stylesheets/style.styl",
+		"/C/Users/Campbell/Projects/Node.js/blog/articleprovider-memory.js",
+		"/C/Users/Campbell/Projects/Node.js/blog/package.json",
+		"/C/Users/Campbell/Projects/Node.js/image_upload/server.js",
+		"/C/Users/Campbell/AppData/Roaming/Sublime Text 2/Packages/User/nodejs.sublime-build",
+		"/C/Users/Campbell/Projects/Node.js/miltiades/start.bat",
+		"/C/Users/Campbell/Projects/Node.js/miltiades/server.js",
+		"/C/Users/Campbell/Projects/Node.js/miltiades/index.js",
+		"/C/Users/Campbell/Projects/nodejs/views/start.html",
+		"/C/Users/Campbell/Projects/Node.js/startServer.bat",
+		"/C/Users/Campbell/Projects/nodejs/startServer.bat",
+		"/C/Users/cam/Programming/CompSci 220/skeleton/compileFileInput.bat",
+		"/C/Users/cam/Programming/nodejs/modules/viewEngine.js",
+		"/C/Users/cam/Programming/nodejs/modules/requestHandlers.js",
+		"/C/Users/cam/Programming/nodejs/modules/router.js",
+		"/C/Users/cam/Programming/nodejs/modules/server.js",
+		"/C/Users/cam/Programming/nodejs/index.js",
+		"/C/Users/cam/Projects/WorkbenchV2/WorkbenchV2.suo",
+		"/C/Users/cam/Programming/nodejs/views/start.html",
+		"/C/Users/cam/Programming/nodejs/views/upload.html",
+		"/C/Users/cam/Programming/nodejs/server.js",
+		"/C/Users/cam/Programming/nodejs/viewEngine.js",
+		"/C/Users/cam/Programming/nodejs/router.js",
+		"/C/Users/cam/Programming/nodejs/requestHandlers.js",
+		"/C/Users/cam/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/cam/AppData/Roaming/Sublime Text 2/Packages/Default/Main.sublime-menu",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/Default.sublime-package",
+		"/C/Users/cam/AppData/Roaming/Sublime Text 2/Packages/User/nodejs.sublime-build",
+		"/C/Users/cam/Programming/nodejs/startServer.bat",
+		"/C/Users/cam/Programming/nodejs/nodejs.sublime-workspace",
+		"/C/Users/cam/Programming/nodejs/helloworld.js",
+		"/C/Users/cam/Programming/nodejs/nodejs.sublime-project",
+		"/C/Users/cam/Programming/JSCheckDemo/jscproject.sublime-workspace",
+		"/C/Users/cam/Programming/JSCheckDemo/jscproject.sublime-project",
+		"/C/Users/cam/Programming/webServer.js",
+		"/C/Users/cam/Programming/helloWorld.js",
+		"/C/Program Files/nodejs/npm.cmd",
+		"/C/Users/cam/Dropbox/knockout project/style.css",
+		"/C/Users/cam/Dropbox/knockout project/javascript.js",
+		"/C/Users/cam/Dropbox/knockout project/index.html",
+		"/C/Users/cam/Dropbox/Google Maps v3/Index.html",
+		"/C/Users/cam/Downloads/SteveSanderson-knockout-v2.1.0rc2-0-gbbc3b9a/SteveSanderson-knockout-bbc3b9a/build/output/knockout-latest.debug.js",
+		"/C/Users/cam/Desktop/myscript.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post",
+			"node-mongo-blog",
+			"formidible",
+			"ctrl+f7",
+			"Cancel",
+			"control",
+			"ctrl",
+			"key",
+			"keys",
+			"\"ctrl+break\"",
+			"[\"ctrl+break\"",
+			"[\"ctrl+break\"]",
+			"\"keys\": [\"ctrl+break\"]",
+			"letterScore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/cam/Programming/JSCheckDemo/jscproject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}
